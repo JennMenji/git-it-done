@@ -24,7 +24,7 @@ var getUserRepos = function (user) {
       alert("Unable to connect to GitHub");
     });
 };
-``;
+
 var formSubmitHandler = function (event) {
   event.preventDefault();
 
